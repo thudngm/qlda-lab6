@@ -1,1 +1,1 @@
-# qlda-lab6
+# LAB 6
